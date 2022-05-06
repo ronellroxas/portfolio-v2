@@ -1,0 +1,12 @@
+.parent {
+    width: 200px;
+    height: 200px;
+    /* background: blue; */
+    margin: auto;
+    position: relative;
+}
+
+.canvas:hover {
+    /* background: blue; */
+    cursor: pointer;
+}
