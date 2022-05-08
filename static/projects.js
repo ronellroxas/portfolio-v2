@@ -31,6 +31,13 @@ const projects = [{
         role: 'Full Stack Developer',
         link: 'https://stem-player.vercel.app/',
         github: 'https://github.com/ronellroxas/Stem-Player'
+    },
+    {
+        title: 'DataScience',
+        description: "is also a field I am passionate about. For my DataScience academic project, we made an analysis on the relationships of the educational level, spending, and expenditure of Filipino families. ",
+        tech: ['Python', 'GeoSpatial'],
+        role: 'DataScience',
+        link: 'https://deepnote.com/workspace/Bryan-and-Friends-41b5571d-a210-45f9-b4be-09ae8e11284b/project/DATASCI-Data-Project-9e33f1da-90db-4f79-9b1c-0bd43192a565/%2Fa.ipynb'
     }
 ]
 
