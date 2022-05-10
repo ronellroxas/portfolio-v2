@@ -12,7 +12,7 @@ export default function Home(props) {
         },
         show: {
             opacity: 1,
-            transition: {duration: 0.2, staggerChildren: 0.5}
+            transition: {duration: 0.2, staggerChildren: 0.2}
         }
     }
 

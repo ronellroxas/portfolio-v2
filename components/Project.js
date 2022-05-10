@@ -1,4 +1,4 @@
-import { Box, SimpleGrid } from "@chakra-ui/react";
+import { Box, Modal, SimpleGrid } from "@chakra-ui/react";
 import { motion } from "framer-motion";
 import ModalGroup from "./ModalGroup";
 import projects from "../static/projects";
@@ -13,7 +13,7 @@ export default function Project(props) {
         },
         show: {
             opacity: 1,
-            transition: {duration: 0.2, staggerChildren: 0.5}
+            transition: {duration: 0.2, staggerChildren: 0.2}
         }
     }
     
