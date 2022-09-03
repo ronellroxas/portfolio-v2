@@ -1,5 +1,11 @@
 const projects = [{
-        title: 'For my internship',
+        title: 'OJT Internship',
+        description: 'I was with Azeus (July - Sept. 3, 2022). I was a fullstack developer that contributed to designing, implementing, and testing of a POC project. I was also able to experiencing being a Sprint Lead for one sprint (2 weeks).',
+        tech: ['NodeJS', 'MongoDB', 'AWS S3', 'ReactJS', 'Zustand'],
+        role: 'Software Developer Intern'
+    },
+    {
+        title: 'Voluntary Internship',
         description: 'I was with COBENA for 3 months (Sept. 27 - Dec. 17, 2021). During my stay, me and other backend developer interns designed and developed an API. We worked closely with the frontend interns to integrate the API. Our supervisors helped us design and build the application throughout our stay. I greatly improved my python, SQL, and web development skills through this internship.',
         tech: ['Flask', 'MongoDB', 'PostgreSQL', 'Docker', 'Git'],
         role: 'Back End Developer Intern'
