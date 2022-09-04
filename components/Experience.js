@@ -79,9 +79,8 @@ export default function Experience(props) {
                 columns={3}
                 spacing={5}
             >
-                <CustomText text="VueJS"/>
-                <CustomText text="Electron"/>
-                <CustomText text="ThreeJS"/>
+                <CustomText text="FastAPI"/>
+                <CustomText text="Flutter"/>
             </SimpleGrid>
         </MotionBox>
     )
