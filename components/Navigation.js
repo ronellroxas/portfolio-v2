@@ -14,7 +14,9 @@ export default function Navigation(props) {
         <>
             <Model/>
             <Tabs variant='soft-rounded' colorScheme='gray' align='center' maxW="40%" minW="400px" mx='auto' isLazy>
-                <TabList>
+                <TabList
+                    m={5}
+                >
                     <CustomTab text='Home'/>
                     <CustomTab text='Languages'/>
                     <CustomTab text='Projects'/>

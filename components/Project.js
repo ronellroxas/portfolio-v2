@@ -21,8 +21,7 @@ export default function Project(props) {
         <MotionBox 
             /*Initial styling*/
             as='div' 
-            maxW="40%" 
-            minW="350px" 
+            maxW="60%" 
             mx='auto'
             
             /*Animations */

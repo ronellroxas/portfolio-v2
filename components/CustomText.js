@@ -20,7 +20,7 @@ export default function CustomText(props) {
     return (
         <MotionText
             align='justify' 
-            lineHeight={1.5}
+            lineHeight={2}
 
             /*Animations */
             variants={TextAnimation}
